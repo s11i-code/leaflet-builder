@@ -1,15 +1,11 @@
-
-import './App.css'
+import "./App.css";
 
 function App() {
-
-  return (
-    <>
-       
-      <h1>Leaflet builder</h1>
-      
-    </>
-  )
+	return (
+		<div>
+			<h1> Leaflet builder</h1>
+		</div>
+	);
 }
 
-export default App
+export default App;
